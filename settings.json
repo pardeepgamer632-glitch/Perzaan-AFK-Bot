@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "example.aternos.me",
-    "port": 92591,
+    "ip": "pardeepgamermc.aternos.me:47164",
+    "port": 47164,
     "version": "1.21.1"
   },
   "position": {
